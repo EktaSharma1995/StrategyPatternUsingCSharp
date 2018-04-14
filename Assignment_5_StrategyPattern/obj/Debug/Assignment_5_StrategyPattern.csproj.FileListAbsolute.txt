@@ -1,0 +1,10 @@
+C:\Users\Ekta\Documents\c#Project\Assignment_5_StrategyPattern\Assignment_5_StrategyPattern\obj\Debug\Assignment_5_StrategyPattern.csprojResolveAssemblyReference.cache
+C:\Users\Ekta\Documents\c#Project\Assignment_5_StrategyPattern\Assignment_5_StrategyPattern\obj\Debug\Assignment_5_StrategyPattern.Form1.resources
+C:\Users\Ekta\Documents\c#Project\Assignment_5_StrategyPattern\Assignment_5_StrategyPattern\obj\Debug\Assignment_5_StrategyPattern.Properties.Resources.resources
+C:\Users\Ekta\Documents\c#Project\Assignment_5_StrategyPattern\Assignment_5_StrategyPattern\obj\Debug\Assignment_5_StrategyPattern.csproj.GenerateResource.cache
+C:\Users\Ekta\Documents\c#Project\Assignment_5_StrategyPattern\Assignment_5_StrategyPattern\obj\Debug\Assignment_5_StrategyPattern.csproj.CoreCompileInputs.cache
+C:\Users\Ekta\Documents\c#Project\Assignment_5_StrategyPattern\Assignment_5_StrategyPattern\bin\Debug\Assignment_5_StrategyPattern.exe.config
+C:\Users\Ekta\Documents\c#Project\Assignment_5_StrategyPattern\Assignment_5_StrategyPattern\bin\Debug\Assignment_5_StrategyPattern.exe
+C:\Users\Ekta\Documents\c#Project\Assignment_5_StrategyPattern\Assignment_5_StrategyPattern\bin\Debug\Assignment_5_StrategyPattern.pdb
+C:\Users\Ekta\Documents\c#Project\Assignment_5_StrategyPattern\Assignment_5_StrategyPattern\obj\Debug\Assignment_5_StrategyPattern.exe
+C:\Users\Ekta\Documents\c#Project\Assignment_5_StrategyPattern\Assignment_5_StrategyPattern\obj\Debug\Assignment_5_StrategyPattern.pdb
