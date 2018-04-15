@@ -11,18 +11,10 @@ namespace Assignment_5_StrategyPattern
 
         public Boolean doValidation(string valueToValidate)
         {
-            if (valueToValidate.Trim() == null || (valueToValidate.Trim() == ""))
-            {
-                return false;
-            }
-
-            else
-
-            {
                 int value;
 
                 return int.TryParse(valueToValidate, out value);
-            }
+            
         }
     } 
 }
